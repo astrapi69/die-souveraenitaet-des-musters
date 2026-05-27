@@ -28,8 +28,8 @@ section_order:
 
   ebook:
     - front-matter/toc.md
-    - front-matter/foreword.md
     - front-matter/preface.md
+    - front-matter/foreword.md
     - chapters
     - back-matter/epilogue.md
     - back-matter/glossary.md
