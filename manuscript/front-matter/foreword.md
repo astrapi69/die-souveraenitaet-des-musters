@@ -1,142 +1,142 @@
 # Einleitung
 
-Im März 2025 publizierten Forscher am Wyss Institute in Harvard und am Microsoft Research Lab eine Studie, die in der
-breiteren Öffentlichkeit kaum Beachtung fand. Sie hatten gezeigt, dass DNA als universeller Datenspeicher funktioniert.
-Nicht im Versuchsmassstab, nicht in der theoretischen Modellrechnung, sondern produktiv, replizierbar, mit Fehlerraten
-unter denen heutiger Festplatten. Ein Gramm DNA kann zweihundertfünfzehn Petabyte Information tragen. Das entspricht
-ungefähr dem Datenvolumen aller jemals gedrehten Filme, zweimal. Die Forscher hatten in DNA gespeichert: ein
-vollständiges Buch, das Genom eines Bakteriums, eine kurze Animation, einen Computervirus. Die Information liess sich
-nach Jahren wieder auslesen, fehlerfrei.
+Im Frühjahr 2018 zahlte Sam Altman zehntausend Dollar an ein Unternehmen, das ihn töten wird.
 
-Im selben Monat, eine Woche später, veröffentlichte ein Konsortium um Anders Sandberg an der Universität Oxford ein
-Whitepaper mit dem Titel "Whole Brain Emulation: Updated Roadmap". Die ursprüngliche Roadmap stammte aus dem Jahr 2008.
-Sie hatte die Übertragung eines menschlichen Bewusstseins auf ein nicht-biologisches Substrat als theoretisch möglich,
-aber praktisch jahrhundertfern beschrieben. Das Update von 2025 verschob den Zeithorizont. Die nötige Auflösung sei in
-Reichweite. Die nötige Rechenleistung sei finanziell und technisch absehbar. Die nötige neurowissenschaftliche Grundlage
-habe sich beschleunigt durch Konnektom-Projekte, die heute ganze Maushirne synaptisch kartieren. Sandberg und seine
-Co-Autoren formulierten vorsichtig, dass die erste partielle Emulation eines menschlichen Gehirns innerhalb dieses
-Jahrhunderts technisch möglich sei. Nicht philosophisch wünschenswert. Nicht ethisch unbedenklich. Nur technisch
-möglich.
+Das ist keine Übertreibung. Es ist der Geschäftsplan einer Firma namens Nectome, gegründet von einem MIT-Absolventen,
+finanziert von Y Combinator, bezuschusst mit fast einer Million Dollar vom National Institute of Mental Health. Nectome
+verkauft eine Dienstleistung, die der Gründer Robert McIntyre selbst als "hundertprozent tödlich" bezeichnet. Der
+Patient wird an eine Maschine angeschlossen, die ihm bei vollem Bewusstsein einen Cocktail aus Konservierungschemikalien
+in die Halsschlagader pumpt. Während er stirbt, wird sein Gehirn auf der Stelle in einen glasartigen Zustand versetzt,
+in dem jede Synapse, jede neuronale Verbindung, das gesamte Konnektom für Jahrhunderte erhalten bleibt. Die Hoffnung
+ist, dass künftige Wissenschaftler diese eingefrorene Struktur eines Tages auslesen, in einen Computer übertragen und
+das Bewusstsein des Toten dort wieder zum Leben erwecken können.
 
-Zwei Studien, eine Woche auseinander, beide aus seriösen Institutionen, beide nüchtern formuliert. Die eine zeigt, dass
-die DNA ein Speicher ist. Die andere zeigt, dass das Gehirn lesbar wird. Wer beide Studien nebeneinander legt, sieht
-eine Frage entstehen, die noch vor zehn Jahren der Science Fiction vorbehalten war: Wenn Information aus dem Körper
-extrahiert werden kann, was bleibt vom Menschen?
+Sam Altman, damals Präsident von Y Combinator, heute einer der mächtigsten Männer der Tech-Branche, sagte dem MIT
+Technology Review: "Ich gehe davon aus, dass mein Gehirn zu meinen Lebzeiten in die Cloud hochgeladen wird."
+Fünfundzwanzig weitere Personen standen 2018 auf der Warteliste. Bis 2026 ist die Zahl gewachsen. In Berlin hat ein
+Unternehmen namens Tomorrow Biostasis die ersten erfolgreichen europäischen Vitrifikationen durchgeführt. In der Schweiz
+arbeitet eine Arbeitsgruppe an einer rechtlichen Grundlage, die solche Verfahren legalisieren soll. Was 2018 noch wie
+ein makabrer Pitch aus einer Black-Mirror-Folge wirkte, ist 2026 ein funktionierender Markt.
 
-Dieses Buch handelt von dieser Frage.
+Die meisten Diskussionen über Nectome drehen sich um zwei Fragen. Erstens, ob die Technik funktionieren wird. Zweitens,
+ob es ethisch ist, todkranken Menschen einen "garantiert tödlichen" Dienst zu verkaufen. Beide Fragen sind wichtig. Aber
+sie verfehlen das eigentliche Problem.
+
+Die eigentliche Frage lautet: Was genau bewahrt Nectome, wenn das Verfahren wirklich funktionieren sollte? Ist es Sam
+Altman? Ist es ein Teil von Sam Altman? Ist es ein Schatten von Sam Altman? Wenn in zweihundert Jahren ein Computer
+eingeschaltet wird und sich für Sam Altman hält, ist das dann derselbe Mann, der heute zehntausend Dollar gezahlt hat?
+Oder ist es etwas Neues, dem niemand jemals gesagt hat, dass es nicht der ist, für den es sich hält?
+
+Diese Frage hat noch nie jemand systematisch gestellt.
+
+## Die ungestellten Fragen
+
+Die transhumanistische Literatur ist umfangreich. Ray Kurzweil hat über die Singularität geschrieben, Nick Bostrom über
+Superintelligenz, Max Tegmark über das Leben 3.0. Diese Autoren haben viele Fragen aufgeworfen, aber sie haben eine
+entscheidende Frage übersehen, weil sie eine stillschweigende Annahme teilen. Sie sprechen von "dem Bewusstsein", als
+wäre es eine Datei. Eine Einheit. Etwas, das man als Ganzes hochladen kann.
+
+Das ist falsch. Der Mensch ist kein Bewusstsein, sondern viele. Er ist nicht ein Muster, sondern ein Verbund vieler
+paralleler Muster, die auf unterschiedlichen Substraten leben und unterschiedlich gut übertragbar sind. Sein kognitives
+Muster ist nicht dasselbe wie sein emotionales Muster. Sein somatisches Muster ist nicht dasselbe wie sein narratives.
+Sein traumatisches Muster ist nicht dasselbe wie sein sprachliches. Wenn Nectome das Konnektom konserviert, konserviert
+es vielleicht eines dieser Muster, vielleicht zwei. Aber es konserviert nicht den Menschen.
+
+Aus dieser Einsicht folgen Fragen, die so noch nicht gestellt wurden.
+
+Was geschieht, wenn nur ausgewählte Schichten eines Menschen weitergetragen werden? Ist das Übertragene noch er, oder
+ist es ein Fragment, das sich für ihn hält?
+
+Was geschieht, wenn die Auswahl unter Marktbedingungen erfolgt? Welche Schichten wird ein Markt bewahren, der nach
+Verwertbarkeit optimiert? Das kognitive Muster, weil es produktiv ist. Vielleicht das narrative, weil es vermarktbar
+ist. Aber das somatische? Das traumatische? Das existenzielle? Wer zahlt für das, was sich nicht auszahlt?
+
+Was geschieht mit dem traumatischen Muster, wenn es übertragbar wird? Hat ein Mensch das Recht, sein Trauma
+zurückzulassen, wenn er konserviert wird? Hat er die Pflicht, es nicht weiterzugeben? Wer entscheidet, wenn er selbst es
+nicht mehr kann?
+
+Was geschieht mit dem existenziellen Muster, der Befindlichkeit gegenüber dem Sein, die Heidegger als Grund jeder
+Erfahrung beschrieb? Lässt sich diese Schicht überhaupt übertragen, oder verschwindet sie genau im Akt der Übertragung,
+weil sie an die Endlichkeit selbst gebunden ist? Wenn ja, wäre digitale Unsterblichkeit ein Selbstwiderspruch. Sie würde
+genau das zerstören, was sie bewahren will.
+
+Was geschieht mit dem politischen Begriff des Menschen, wenn Muster vervielfältigt, fragmentiert oder modifiziert werden
+können? Was bedeutet "eine Stimme, ein Mensch", wenn drei Kopien meines kognitiven Musters parallel existieren? Hat jede
+eine Stimme? Hat keine? Hat nur das Original? Was, wenn das Original gestorben ist?
+
+Diese Fragen sind nicht akademisch. Sie sind die unausgesprochene Voraussetzung jedes Geschäftsmodells, das verspricht,
+einen Menschen über seinen Tod hinaus zu bewahren. Nectome stellt sie nicht. Die transhumanistische Literatur stellt sie
+nicht. Die Gesetzgeber stellen sie nicht. Dieses Buch stellt sie.
 
 ## Was dieses Buch fragt
 
 Die Leitfrage lautet: Wenn die Muster, aus denen ein Mensch besteht, vermessbar, lesbar und übertragbar werden, wer
 entscheidet, welche davon bleiben?
 
-Die Frage hat zwei Voraussetzungen. Die erste Voraussetzung ist eine empirische. Der Mensch besteht nicht aus einem
-einzigen Muster. Er besteht aus vielen. Sein Genom ist ein Muster. Sein Konnektom ist ein Muster. Seine Bewegungen sind
-ein Muster. Seine Sprache ist ein Muster. Sein Trauma ist ein Muster. Diese Muster liegen auf unterschiedlichen
-Substraten, sie haben unterschiedliche Lebensspannen, und sie sind unterschiedlich gut übertragbar. Die
-transhumanistische Literatur von Kurzweil bis Bostrom spricht von "dem Bewusstsein", als wäre es eine Datei, die man
-kopieren kann. Das ist eine Vereinfachung, die nicht hält. Wer den Menschen ernst nimmt, muss seine Pluralität ernst
-nehmen.
+Die Antwort, die dieses Buch entwickelt, ist ein neues Grundrecht. Ich nenne es Musterautonomie. Es ist das Recht jedes
+Menschen, alle seine Schichten zu definieren, zu schützen und souverän darüber zu entscheiden, welche er bewahrt,
+modifiziert oder loslässt. Nicht der Staat. Nicht der Konzern. Nicht die Familie. Nicht das künftige Ich. Der Mensch
+selbst, im Vollbesitz seiner Pluralität.
 
-Die zweite Voraussetzung ist eine rechtsphilosophische. Wenn diese Muster extrahiert, modifiziert oder übertragen werden
-können, dann entsteht eine neue Frage der Souveränität. In Band 5 dieser Serie war biologische Souveränität definiert
-als das Recht des Menschen, über den eigenen genetischen Code zu bestimmen. Das war die Frage des Substrats. Dieses Buch
-geht eine Stufe weiter. Es fragt nicht mehr, wer den Träger ändern darf, sondern wer das ändern darf, was auf dem Träger
-läuft. Das nenne ich Musterautonomie. Sie ist die Antwort dieses Buches auf die Leitfrage, und die folgenden siebzehn
-Kapitel zeigen, warum sie als neues Grundrecht gedacht werden muss.
-
-## Was dieses Buch mit der Serie verbindet
-
-Die Serie Das unsterbliche Muster bestand bis Band 5 aus fünf Bänden. Sie begann mit einer abstrakten Frage und endete
-mit einer politischen Forderung.
-
-Band 1, Die formbare Ewigkeit, fragte: Was bedeutet es, als Geist in der Ewigkeit zu existieren? Die Antwort: Der Geist
-ist ein Muster, keine Substanz.
-
-Band 2, Die Geister der Zeit, fragte: Wie manifestiert sich der Geist in der Materie? Die Antwort: Durch Code.
-Unternehmen, Religionen, Sprachen und Institutionen sind Muster, die ihre materiellen Träger überleben.
-
-Band 3, Erinnerung und Vergessen, fragte: Warum vergisst der zeitliche Geist seine ewige Natur? Die Antwort: Vergessen
-ist die Bedingung für Erleben.
-
-Band 4, Rückkehr oder Befreiung, fragte: Was geschieht, wenn der Geist sich erinnert? Die Antwort: Er muss entscheiden,
-was er tut.
-
-Band 5, Biologische Souveränität, fragte: Darf der manifestierte Geist seine eigene materielle Grundlage umschreiben?
-Die Antwort: Ja, unter Bedingungen, und das Recht dazu gehört dem Menschen, der den Code trägt.
-
-Dieses Buch, Band 6, fragt etwas anderes. Wenn der Geist sich nicht mehr nur in seinem Körper, sondern in extrahierbaren
-Mustern manifestiert, was geschieht dann mit dem Begriff der Souveränität? Die Serie wurde mit Band 5 als abgeschlossen
-geplant. Dieser Band ist deshalb kein Fortsetzungsband im engeren Sinn. Er ist ein Gegenstück. Er steht eigenständig,
-aber er nimmt den Leitbegriff der Serie, das Muster, in eine Richtung weiter, die in den ersten fünf Bänden nur
-angedeutet war. Wer die Serie nicht kennt, kann dieses Buch lesen. Wer die Serie kennt, liest es als sechste Beleuchtung
-desselben Begriffs.
+In Band 5 der Serie, der diesem Buch vorausging, war biologische Souveränität definiert als das Recht des Menschen, über
+den eigenen genetischen Code zu bestimmen. Das war die Frage des Substrats. Dieses Buch geht eine Stufe weiter. Es fragt
+nicht mehr, wer den Träger ändern darf, sondern wer das ändern darf, was auf dem Träger läuft. Wer Band 5 kennt, wird
+die Verbindung erkennen. Wer ihn nicht kennt, verliert nichts. Dieses Buch steht eigenständig.
 
 ## Wie dieses Buch aufgebaut ist
 
 Das Buch hat drei Teile und einen Rahmen.
 
-Der Rahmen besteht aus dem Prolog und dem Epilog. Beide sind in der ersten Person geschrieben. Der Prolog stellt ein
-Gedankenexperiment vor, in dem ich mich als Reisenden auf einem fremden Planeten denke, vor der Entscheidung, ob dort
-Leben entstehen soll. Der Epilog kehrt zu dieser Situation zurück und beantwortet die Frage, die der Prolog offen liess.
-Zwischen Prolog und Epilog liegt das eigentliche Buch.
+Der Rahmen besteht aus dem Prolog, den Sie gelesen haben, und dem Epilog am Schluss. Beide sind in der ersten Person
+geschrieben. Der Reisende, der vor dem Knopf zögert, ist die Verkörperung der Frage, die das Buch stellt. Der Epilog
+kehrt zu ihm zurück, wenn das Buch ihm Werkzeuge gegeben hat, mit denen er antworten kann.
 
-Teil 1, Das Substrat und seine Lesbarkeit, vermisst das genetische Terrain. Sieben Kapitel zeigen, wie DNA gelesen,
-geschrieben und modifiziert wird, welche Werkzeuge existieren, welche Vorbilder die Natur bereithält und welche
-Architektur für quasi-Unsterblichkeit nötig wäre. Hier wird die Brücke zu Band 5 gebaut und die technische Grundlage
-gelegt, ohne die das Buch in der Abstraktion schweben würde.
+Teil 1 vermisst das genetische Terrain. Was DNA kann, was sie nicht kann, welche Werkzeuge existieren, welche Vorbilder
+die Natur bereithält, was technisch nötig wäre, um quasi-Unsterblichkeit zu erreichen, und warum die DNA als Substrat
+und als Muster zugleich existiert.
 
-Teil 2, Das Muster und seine Pluralität, kartographiert den Menschen. Neun Kapitel zeigen, dass der Mensch nicht ein
-Muster ist, sondern viele. Das kognitive Muster, das narrative Muster, das somatische Muster, das emotionale Muster, das
-traumatische Muster, das sprachliche Muster, das existenzielle Muster und ein Sammelkapitel für die weiteren Schichten.
-Hier wird der blinde Fleck der transhumanistischen Literatur offengelegt und durch eine erste systematische Kartographie
-ersetzt.
+Teil 2 kartographiert den Menschen. Die kognitive Schicht. Die narrative. Die somatische. Die emotionale. Die
+traumatische. Die sprachliche. Die existenzielle. Und ein Sammelkapitel für die weiteren Schichten, die mitlaufen, ohne
+im Mittelpunkt zu stehen.
 
-Teil 3, Die Souveränität und ihre Folgen, entfaltet die These. Vier Kapitel zeigen, was geschieht, wenn die
-Mustererhaltung unter Marktbedingungen abläuft, wie der Begriff der Musterautonomie aussehen muss, was er für das
-lebende Stimmrecht bedeutet und welche Verantwortung der Mensch trägt, der nicht mehr nur sich selbst verändert, sondern
-Leben erschafft.
+Teil 3 entfaltet die politische Konsequenz. Was geschieht, wenn Mustererhaltung unter Marktbedingungen abläuft. Wie der
+Begriff der Musterautonomie aussehen muss. Was er für das lebende Stimmrecht bedeutet. Welche Verantwortung der Mensch
+trägt, der nicht mehr nur sich selbst verändert, sondern Leben erschafft.
 
-Am Ende des Buches steht ein Anhang. Er heisst "Was noch zu vermessen wäre" und listet jene Musterschichten auf, die
-nicht ins Hauptbuch gekommen sind. Er ist als Einladung gedacht, weiterzudenken. Die Kartographie dieses Buches ist eine
-erste, nicht eine letzte.
+Am Schluss steht ein Anhang. Er heisst "Was noch zu vermessen wäre" und listet jene Musterschichten auf, die nicht ins
+Hauptbuch gekommen sind. Er ist als Einladung gedacht, weiterzudenken.
 
 ## Was dieses Buch nicht ist
 
-Es ist kein Lehrbuch der Biotechnologie. Die technischen Details werden so weit erklärt, wie sie für das Argument nötig
-sind, nicht weiter. Wer eine Einführung in CRISPR oder in die Neurowissenschaft des Konnektoms sucht, findet bessere
-Bücher.
+Es ist kein Lehrbuch der Biotechnologie. Die technischen Details werden so weit erklärt, wie das Argument sie braucht,
+nicht weiter.
 
-Es ist kein Buch über künstliche Intelligenz. KI kommt vor, weil sie die Werkzeuge baut, die die Frage des Buches
-aufwerfen. Aber die Frage selbst ist keine Frage an die Maschine. Sie ist eine Frage an den Menschen.
+Es ist kein Buch über künstliche Intelligenz. KI kommt vor, weil sie die Werkzeuge baut, die die Frage aufwerfen. Aber
+die Frage selbst ist keine Frage an die Maschine. Sie ist eine Frage an den Menschen.
 
-Es ist kein Sequel zu Biologische Souveränität. Wer Band 5 gelesen hat, wird Verbindungen finden, aber dieses Buch
-verlangt keine Vorkenntnis. Wer Band 5 nicht kennt, verliert nichts Wesentliches.
+Es ist kein objektives Buch. Wer ein neutrales Buch sucht, soll ein anderes lesen. Dieses Buch trägt die Spuren dessen,
+der es geschrieben hat. Ein Vater, dessen Sohn nicht spricht. Ein Sohn, dessen Mutter sich nicht mehr an alles erinnert.
+Ein Sohn, dessen Vater seit siebzig Jahren die Folgen einer Poliomyelitis trägt. Diese drei Konstellationen prägen das
+Buch, weil sie die Frage prägen, die das Buch stellt. Wer einen Menschen liebt, dessen Muster sich auflösen, denkt
+anders über Mustererhaltung als jemand, der nur Konzepte bewegt.
 
-Es ist kein objektives Buch. Wie Band 5 trägt es die Spuren dessen, der es geschrieben hat. Ein Vater, dessen Sohn nicht
-spricht. Ein Sohn, dessen Mutter sich nicht mehr an alles erinnert. Ein Sohn, dessen Vater seit siebzig Jahren die
-Folgen einer Poliomyelitis trägt. Diese drei Konstellationen prägen das Buch, weil sie die Frage prägen, die das Buch
-stellt. Wer ein neutrales Buch sucht, soll ein anderes lesen.
+## Warum jetzt
 
-## Was die Frage von uns verlangt
+Sam Altman ist heute einundvierzig Jahre alt. Wenn er weitere vierzig oder fünfzig Jahre lebt, sind das vierzig oder
+fünfzig Jahre, in denen die Werkzeuge reifen. Konnektom-Forschung wird genauer. Speichertechnik wird kleiner.
+Rechenleistung wird billiger. Die Frage, ob seine zehntausend Dollar eine kluge Investition waren, wird sich nicht erst
+in zweihundert Jahren stellen, sondern wahrscheinlich noch in diesem Jahrhundert.
 
-Die Frage, die dieses Buch stellt, ist nicht die Frage einer fernen Zukunft. Sie ist die Frage einer nahen Gegenwart.
-CRISPR existiert. Base Editing existiert. DNA-Datenspeicher existiert. Konnektom-Forschung existiert. Whole Brain
-Emulation ist seriöses Forschungsfeld. Diese Werkzeuge werden in den nächsten zwei bis drei Jahrzehnten reifen. Sie
-werden nicht warten, bis die Philosophie aufgeholt hat. Sie werden nicht warten, bis das Recht aufgeholt hat. Sie werden
-nicht warten, bis die Gesellschaft entschieden hat, was sie will.
+Mit ihr stellt sich eine andere Frage, die mehr Menschen betrifft als nur Sam Altman. Wenn die Technik reift, wird sie
+Massengut. Was heute zehntausend Dollar kostet, wird in fünfzig Jahren ein Bruchteil davon kosten. Was heute eine Nische
+ist, wird in fünfzig Jahren eine Option für die Mittelschicht sein. Und damit wird die Frage, welche Muster bewahrt
+werden sollen und wer das entscheidet, zur politischen Frage einer ganzen Gesellschaft.
 
-Das ist nicht zynisch gemeint. Es ist nüchtern. Wer die Geschichte der Technik kennt, weiss, dass Werkzeuge selten auf
-ihre ethische Genehmigung warten. Sie reifen, sie verbreiten sich, und die Gesellschaft passt sich an. Manchmal zu spät.
-Manchmal zu schnell. Selten gerade richtig.
+Dieses Buch ist ein Versuch, die Frage zu stellen, bevor die Werkzeuge sie für uns beantworten.
 
-Dieses Buch ist ein Versuch, die Frage zu stellen, bevor die Werkzeuge sie für uns beantworten. Die Antworten, die es
-gibt, sind unvollständig. Die Kartographie, die es vorlegt, ist eine erste. Die Forderung, die es formuliert, die
-Musterautonomie als neues Grundrecht, ist eine Skizze, kein Gesetzentwurf. Aber wenn das Buch eines erreichen kann, dann
-ist es, dass die Frage in der Welt steht, bevor die Antworten fertig sind.
-
-Der Reisende auf dem fremden Planeten zögert vor dem Knopf. Wir zögern vor den Werkzeugen. Beide Situationen haben mehr
-gemeinsam, als es scheint.
+Der Reisende vor dem Knopf zögert nicht aus Schwäche. Er zögert, weil er weiss, dass die Entscheidung nicht einfach ist.
+Wir haben die gleiche Position. Auch wir stehen vor einem Knopf. Auch wir wissen nicht, was er auslöst, wenn wir ihn
+drücken. Auch wir müssen entscheiden, bevor jemand anderes es für uns tut.
 
 # Teil 1: Das Substrat und seine Lesbarkeit
 
