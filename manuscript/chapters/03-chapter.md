@@ -9,11 +9,12 @@ einander verstärken und zusammen das ergeben, was wir am Ende als Alter erkenne
 Gedächtnis, an der Haut, die nicht mehr zurückspringt.
 
 Ich habe das Altern aus der Nähe gesehen, lange bevor ich darüber schrieb. An einem Menschen, dem das Gedächtnis
-abhandenkommt, Stück für Stück, während der Körper noch funktioniert. An einem anderen, dessen Körper früh gezeichnet
-wurde, während der Geist ungebrochen blieb. Wer Alternde begleitet, lernt rasch, dass nicht alles gleichmäßig nachlässt.
-Das eine schwindet, das andere bleibt. Ein Mensch kann mit klarem Verstand in einem versagenden Körper sitzen oder mit
-einem rüstigen Körper das Vergessen erleiden. Diese Ungleichzeitigkeit ist kein Zufall. Sie ist der erste Hinweis
-darauf, dass hinter dem einen Wort Altern viele verschiedene Prozesse stehen, die jeder ihrem eigenen Takt folgen.
+abhandenkommt, Stück für Stück, während der Körper noch funktioniert. An einem anderen, den eine frühe Krankheit
+körperlich zeichnete, während der Geist ungebrochen blieb. Wer Alternde begleitet, lernt rasch, dass nicht alles
+gleichmäßig nachlässt. Das eine schwindet, das andere bleibt. Ein Mensch kann mit klarem Verstand in einem versagenden
+Körper sitzen oder mit einem rüstigen Körper das Vergessen erleiden. Diese Ungleichzeitigkeit ist kein Zufall. Sie ist
+der erste Hinweis darauf, dass hinter dem einen Wort Altern viele verschiedene Prozesse stehen, die jeder ihrem eigenen
+Takt folgen.
 
 Diese Unterscheidung ist nicht akademisch. Sie entscheidet darüber, ob die Versprechen der Lebensverlängerung, von denen
 die späteren Kapitel handeln, überhaupt sinnvoll sind. Wer glaubt, Altern sei ein einzelner Schalter, sucht nach der
@@ -53,38 +54,37 @@ Dreiteilung entlang will ich die zwölf durchgehen.
 
 ## Die primären Schäden
 
-Am Anfang steht der Schaden an der DNA selbst, die genomische Instabilität. Das Erbgut wird im Lauf eines Lebens
-unablässig verletzt, durch Strahlung, durch aggressive Moleküle aus dem eigenen Stoffwechsel, durch schlichte Fehler
-beim Kopieren. Der Körper repariert diese Schäden, doch die Reparatur ist nicht perfekt und wird mit dem Alter
-nachlässiger. Schätzungen zufolge sammelt jede einzelne Zelle im Laufe eines Jahres etwa vierzig dauerhafte Mutationen
-an. Über Jahrzehnte summiert sich das zu einem Text, der von kleinen Verschreibungen durchsetzt ist, und manche dieser
-Verschreibungen sind gefährlich.
+Am Anfang steht der Schaden an der DNA selbst, die genomische Instabilität. Strahlung, aggressive Moleküle aus dem
+eigenen Stoffwechsel und schlichte Fehler beim Kopieren verletzen das Erbgut im Lauf eines Lebens unablässig. Der Körper
+repariert diese Schäden, doch die Reparatur arbeitet nicht perfekt und lässt mit dem Alter nach. Schätzungen zufolge
+sammelt jede einzelne Zelle im Laufe eines Jahres etwa vierzig dauerhafte Mutationen an. Über Jahrzehnte summiert sich
+das zu einem Text voller kleiner Verschreibungen, und manche dieser Verschreibungen sind gefährlich.
 
 Das zweite primäre Kennzeichen betrifft die Enden der Chromosomen. Jeder DNA-Faden trägt an seinen Spitzen eine
-Schutzkappe, die Telomer genannt wird, vergleichbar mit der Plastikhülse am Ende eines Schnürsenkels, die das Ausfransen
-verhindert. Bei jeder Zellteilung wird diese Kappe ein Stück kürzer. Das liegt an einer technischen Eigenheit des
-Kopiervorgangs, die das letzte Stück eines Strangs nicht vollständig abschreiben kann, sodass bei jeder Verdopplung ein
-wenig verloren geht. Ist die Kappe aufgebraucht, kann die Zelle sich nicht mehr teilen, sie verfällt oder stellt ihre
-Arbeit ein. Man hat diese Grenze schon vor Jahrzehnten in der Zellkultur beobachtet, lange bevor man ihre Ursache
-verstand. Menschliche Zellen teilen sich in der Schale nur eine begrenzte Zahl von Malen, dann hören sie auf, als zählte
-ein inneres Werk mit. Genau das tut es. Die Verkürzung der Telomere ist eine Art eingebaute Uhr, die zählt, wie oft eine
-Zelle sich schon geteilt hat, und irgendwann läuft sie ab. Das schützt einerseits vor entartetem, ungebremstem Wachstum,
-denn eine Zelle mit aufgebrauchter Kappe kann nicht zum Tumor auswuchern. Andererseits bedeutet es, dass die Fähigkeit
-des Körpers, Gewebe durch Zellteilung zu erneuern, von Haus aus befristet ist.
+Schutzkappe, das Telomer, vergleichbar mit der Plastikhülse am Ende eines Schnürsenkels, die das Ausfransen verhindert.
+Jede Zellteilung verkürzt diese Kappe ein Stück. Das liegt an einer technischen Eigenheit des Kopiervorgangs, die das
+letzte Stück eines Strangs nicht vollständig abschreiben kann, sodass bei jeder Verdopplung ein wenig verloren geht. Ist
+die Kappe aufgebraucht, kann die Zelle sich nicht mehr teilen, sie verfällt oder stellt ihre Arbeit ein. Forscher
+beobachteten diese Grenze schon vor Jahrzehnten in der Zellkultur, lange bevor sie ihre Ursache verstanden. Menschliche
+Zellen teilen sich in der Schale nur eine begrenzte Zahl von Malen, dann hören sie auf, als zählte ein inneres Werk mit.
+Genau das tut es. Die Verkürzung der Telomere ist eine Art eingebaute Uhr, die zählt, wie oft eine Zelle sich schon
+geteilt hat, und irgendwann läuft sie ab. Das schützt einerseits vor entartetem, ungebremstem Wachstum, denn eine Zelle
+mit aufgebrauchter Kappe kann nicht zum Tumor auswuchern. Andererseits begrenzt es von Haus aus die Fähigkeit des
+Körpers, Gewebe durch Zellteilung zu erneuern.
 
-Das dritte ist die epigenetische Veränderung. Über der DNA, das wurde im vorigen Kapitel angedeutet, liegt eine Schicht
-chemischer Markierungen, die bestimmt, welche Gene gelesen werden und welche schweigen. Diese Markierungen geraten mit
-dem Alter durcheinander. Gene, die abgeschaltet sein sollten, werden aktiv, andere, die gebraucht würden, verstummen.
-Der Text bleibt derselbe, aber die Regie, die ihn aufführt, wird fehlerhaft. Eine Zelle vergisst gleichsam, welche Art
-von Zelle sie sein sollte.
+Das dritte ist die epigenetische Veränderung. Über der DNA, das deutete das vorige Kapitel an, liegt eine Schicht
+chemischer Markierungen, die bestimmt, welche Gene die Zelle liest und welche sie schweigen lässt. Diese Markierungen
+geraten mit dem Alter durcheinander. Gene, die ruhen sollten, schalten sich an, andere, die der Körper bräuchte,
+verstummen. Der Text bleibt derselbe, aber die Regie, die ihn aufführt, gerät aus dem Tritt. Eine Zelle vergisst
+gleichsam, welche Art von Zelle sie sein sollte.
 
 Das vierte primäre Kennzeichen ist der Verlust der Proteostase, ein sperriges Wort für das Gleichgewicht der Proteine.
 Die Werkzeuge des Körpers, die Proteine, müssen korrekt gefaltet sein, um zu funktionieren. Ein Protein ist keine bloße
 Kette, es muss sich in eine ganz bestimmte räumliche Form legen, ähnlich wie ein Blatt Papier, das erst durch die
-richtigen Falten zum Origami wird. Stimmt die Faltung nicht, taugt das Protein nichts, und beschädigte Exemplare müssen
-erkannt und abgebaut werden. Der gesunde Körper unterhält dafür eine aufwendige Qualitätskontrolle, die falsch gefaltete
-Proteine aussortiert und entsorgt. Mit dem Alter versagt diese Kontrolle. Falsch gefaltete Proteine häufen sich an,
-verklumpen, lagern sich ab, und weil die Aufräumtrupps überfordert sind, bleiben die Klumpen liegen. Manche der
+richtigen Falten zum Origami wird. Stimmt die Faltung nicht, taugt das Protein nichts, und beschädigte Exemplare muss
+die Zelle erkennen und entsorgen. Der gesunde Körper unterhält dafür eine aufwendige Qualitätskontrolle, die falsch
+gefaltete Proteine aussortiert und entsorgt. Mit dem Alter versagt diese Kontrolle. Falsch gefaltete Proteine häufen
+sich an, verklumpen, lagern sich ab, und weil die Aufräumtrupps überfordert sind, bleiben die Klumpen liegen. Manche der
 bekanntesten Alterskrankheiten des Gehirns beruhen genau auf solchen Ablagerungen, auf Eiweißklumpen, die sich zwischen
 und in den Nervenzellen festsetzen und sie ersticken.
 
@@ -93,11 +93,11 @@ Wenn er sich repariert, sich erneuert, sich verteidigt, warum tut er es nicht gu
 der Evolutionsbiologie ist ernüchternd. Die Natur optimiert nicht auf langes Leben, sondern auf Fortpflanzung. Was
 zählt, ist, dass ein Organismus lange genug überlebt und kräftig genug ist, um seine Gene weiterzugeben. Was danach
 geschieht, im Alter jenseits der fruchtbaren Jahre, unterliegt kaum noch einem Selektionsdruck. Reparaturmechanismen,
-die erst spät im Leben nützen würden, werden von der Evolution nicht belohnt und daher auch nicht ausgebaut. Schlimmer
-noch, manche Programme, die in der Jugend Vorteile bringen, etwa kräftiges Zellwachstum, werden im Alter zur Last, ohne
-dass die Evolution einen Grund hätte, sie abzuschalten. Der Körper ist also nicht für die Ewigkeit gebaut, sondern für
-die Weitergabe. Das Altern ist kein Versehen der Natur. Es ist der Preis eines Bauplans, der auf etwas anderes hin
-optimiert wurde als auf Dauer.
+die erst spät im Leben nützen würden, belohnt die Evolution nicht und baut sie daher auch nicht aus. Schlimmer noch,
+manche Programme, die in der Jugend Vorteile bringen, etwa kräftiges Zellwachstum, werden im Alter zur Last, ohne dass
+die Evolution einen Grund hätte, sie abzuschalten. Der Körper ist also nicht für die Ewigkeit gebaut, sondern für die
+Weitergabe. Das Altern ist kein Versehen der Natur. Es ist der Preis eines Bauplans, den die Evolution auf etwas anderes
+hin geformt hat als auf Dauer.
 
 ## Die antagonistischen Reaktionen
 
@@ -133,11 +133,12 @@ erschöpft sich dieser Vorrat. Der Nachschub versiegt, und Wunden heilen langsam
 Blut wird ärmer an frischen Zellen.
 
 Das zweite ist die veränderte interzelluläre Kommunikation. Die Zellen des Körpers stehen in ständigem Austausch, sie
-senden einander Signale, koordinieren sich, melden Gefahr. Im Alter wird dieses Signalwesen gestört. Falsche Botschaften
-verbreiten sich, das fein abgestimmte Gespräch der Zellen verkommt zu einem Rauschen aus widersprüchlichen Meldungen.
+senden einander Signale, koordinieren sich, melden Gefahr. Im Alter gerät dieses Signalwesen aus den Fugen. Falsche
+Botschaften verbreiten sich, das fein abgestimmte Gespräch der Zellen verkommt zu einem Rauschen aus widersprüchlichen
+Meldungen.
 
-Mit der Erweiterung von 2023 kamen drei weitere Kennzeichen hinzu, die teils aus den älteren herausgelöst, teils neu
-erkannt wurden. Das erste ist die deaktivierte Makroautophagie, das Versagen des zelleigenen Recyclings. Eine Zelle
+Mit der Erweiterung von 2023 kamen drei weitere Kennzeichen hinzu, die die Forscher teils aus den älteren herauslösten,
+teils neu erkannten. Das erste ist die deaktivierte Makroautophagie, das Versagen des zelleigenen Recyclings. Eine Zelle
 besitzt einen Mechanismus, um beschädigte Bestandteile einzusammeln und zu verwerten, eine Art innere Müllabfuhr. Lässt
 diese nach, häuft sich der Abfall, und die Zelle erstickt langsam an ihrem eigenen Schrott. Das zweite ist die
 chronische Entzündung, von Fachleuten Inflammaging genannt, aus den Wörtern für Entzündung und Altern. Es ist ein
