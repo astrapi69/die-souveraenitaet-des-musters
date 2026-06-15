@@ -67,7 +67,7 @@ Schneiden, aber man steuert das Reparieren nur bedingt.
 Die zweite Einschränkung wiegt schwerer und hat dem Feld lange Sorgen bereitet. Die Schere trifft nicht immer nur die
 beabsichtigte Stelle. Manchmal schneidet sie an einer anderen Stelle des Erbguts, die der beabsichtigten ähnelt, aber
 nicht identisch ist. Fachleute nennen das einen Treffer abseits des Ziels. Im Labor mag ein solcher Fehlschnitt
-folgenlos bleiben, in einer medizinischen Anwendung am Menschen kann er gefährlich werden, denn ein Schnitt an der
+folgenlos bleiben. In einer medizinischen Anwendung am Menschen kann er gefährlich werden, denn ein Schnitt an der
 falschen Stelle kann ein gesundes Gen zerstören oder gar eine Zelle auf den Weg zum Tumor bringen. Die ganze Geschichte
 der Werkzeugentwicklung, die nun folgt, lässt sich als ein langer Kampf gegen diese beiden Schwächen lesen, gegen die
 Grobheit des Schnitts und gegen die Treffer abseits des Ziels.
@@ -178,11 +178,11 @@ Was die Werkzeuge nicht können, ist ebenso wichtig, und es führt zurück zum K
 bearbeiten das Substrat. Sie schreiben in die Partitur. Sie ändern Buchstaben, fügen Wörter ein, streichen andere. Aber
 sie berühren mit alldem nur den Text, nicht seine Aufführung. Sie können ein fehlerhaftes Gen reparieren, sodass der
 Körper ein funktionierendes Protein herstellt. Sie können nicht in das eingreifen, was das vorige Kapitel und der Anfang
-dieses Buches das Muster genannt haben, in das Denken, das Erinnern, die Persönlichkeit, all das, was kein einzelnes Gen
-kodiert, sondern was aus dem lebendigen Vollzug des ganzen Organismus hervorgeht. Ein Genwerkzeug kann die
-Sichelzellkrankheit heilen, weil sie an einer klar umrissenen Stelle des Textes sitzt. Es kann einen Menschen nicht
-klüger, nicht glücklicher, nicht zu einem anderen machen, denn diese Eigenschaften stehen nicht an einer Stelle des
-Textes, sie sind überhaupt nicht im Text, sondern in seiner Ausführung.
+dieses Buches das Muster genannt haben, in das Denken, das Erinnern, die Persönlichkeit. All das kodiert kein einzelnes
+Gen, es geht aus dem lebendigen Vollzug des ganzen Organismus hervor. Ein Genwerkzeug kann die Sichelzellkrankheit
+heilen, weil sie an einer klar umrissenen Stelle des Textes sitzt. Es kann einen Menschen nicht klüger, nicht
+glücklicher, nicht zu einem anderen machen, denn diese Eigenschaften stehen nicht an einer Stelle des Textes, sie sind
+überhaupt nicht im Text, sondern in seiner Ausführung.
 
 Das ist die entscheidende Grenze, und sie ist keine vorübergehende, die der nächste technische Sprung beseitigt. Sie ist
 grundsätzlich. Man kann die Partitur noch so kunstvoll umschreiben, man bearbeitet damit nie die Symphonie. Die

@@ -26,9 +26,8 @@ tragen, was man ihnen anvertraut, ohne danach zu fragen, ob es ein Bauplan für 
 Wenn das stimmt, dann lässt sich in die DNA nicht nur die Anweisung für einen Körper schreiben, sondern jede beliebige
 Information. Ein Text. Ein Bild. Ein Lied. Denn alles, was sich digital speichern lässt, besteht am Ende aus einer Folge
 von Nullen und Einsen, und eine Folge von Nullen und Einsen lässt sich übersetzen in eine Folge der vier DNA-Buchstaben.
-Man muss nur eine Übersetzungsregel festlegen, etwa dass A und C für eine Null stehen und G und T für eine Eins, und
-schon kann man jede Datei der Welt in eine DNA-Sequenz verwandeln und diese Sequenz dann als wirkliches Molekül
-herstellen.
+Man muss nur eine Übersetzungsregel festlegen, etwa dass A und C für eine Null stehen und G und T für eine Eins. Dann
+kann man jede Datei der Welt in eine DNA-Sequenz verwandeln und diese Sequenz als wirkliches Molekül herstellen.
 
 Genau das ist geschehen, und zwar nicht in einem Gedankenspiel, sondern im Labor. Bereits vor über einem Jahrzehnt
 kodierte ein Harvard-Genetiker ein ganzes Buch in DNA, zweiundfünfzigtausend Wörter samt Bildern, indem er es in
@@ -159,7 +158,7 @@ damit immer nur den Träger, niemals das Getragene. Er bearbeitet die Partitur, 
 vermessen, und an seiner äußersten Grenze, dort, wo es zum Speicher wird und die Frage nach der Speicherbarkeit des
 Menschen aufwirft, endet, was die Biologie des Trägers sagen kann.
 
-Was bleibt, ist die eigentliche Frage dieses Buches, und sie lautet nun nicht mehr, was der Mensch mit seinem Körper tun
+Was bleibt, ist die eigentliche Frage dieses Buches. Sie lautet nun nicht mehr, was der Mensch mit seinem Körper tun
 kann, sondern was der Mensch ist, jenseits seines Körpers, und ob das, was er ist, sich erhalten lässt, wenn der Körper
 vergeht. Der erste Teil hat den Träger vermessen. Der zweite Teil vermisst den Menschen.
 

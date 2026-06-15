@@ -43,8 +43,8 @@ niemand sie prüfen.
 Die Annahme lautet, dass es so etwas wie das Bewusstsein gibt, im Singular, eine einzige Sache, die man scannen,
 hochladen, übertragen kann. Man spricht von dem Geist, dem Bewusstsein, dem Selbst, als wäre es eine Datei, die man von
 einem Speicher auf einen anderen kopiert. Hört man den Verfechtern des Uploadings zu, klingt es, als sei der Mensch im
-Kern ein einziges Programm, das zufällig auf der Hardware eines biologischen Gehirns läuft und das man im Prinzip auf
-andere Hardware verschieben könnte, ohne dass etwas Wesentliches verloren ginge.
+Kern ein einziges Programm, das zufällig auf der Hardware eines biologischen Gehirns läuft. Ein Programm, das man im
+Prinzip auf andere Hardware verschieben könnte, ohne dass etwas Wesentliches verloren ginge.
 
 Diese Vorstellung steckt schon in der Sprache. Hochladen, übertragen, kopieren, das sind Wörter aus der Welt der
 Dateien, und eine Datei ist eine Einheit. Sie hat einen Anfang und ein Ende, sie ist vollständig auslesbar, und sie ist
@@ -111,7 +111,7 @@ aber sie haben das Bündel selbst noch als ein Bündel von Geistigem gedacht.
 
 Was ihnen entging, ist eine Unterscheidung, die erst die Technik sichtbar macht, vor der sie schrieben. Nicht alle
 Schichten des Menschen sind geistig, und nicht alle sitzen im Gehirn. Manches von dem, was einen Menschen ausmacht,
-steckt gar nicht in seinen Gedanken oder Erinnerungen, sondern in seinem Körper, in der Art, wie er sich bewegt, wie
+steckt gar nicht in seinen Gedanken oder Erinnerungen, sondern in seinem Körper. In der Art, wie er sich bewegt, wie
 sein Nervensystem auf Gefahr reagiert, wie seine Hände ein Werkzeug führen, das sie tausendmal geführt haben. Anderes
 steckt in der Sprache, die ihn geformt hat, wieder anderes in Wunden, die tiefer liegen als jede Erinnerung.
 

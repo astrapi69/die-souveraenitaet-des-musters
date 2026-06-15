@@ -97,22 +97,22 @@ eine Einbahnstraße sei.
 
 Der entscheidende Gedanke für die Verjüngung kam später. Wenn diese Faktoren eine Zelle ganz in den Urzustand
 zurückführen können, was geschieht dann, wenn man sie nur kurz wirken lässt, nur ein Stück weit? Die Hoffnung war, dass
-die Zelle dann nicht ihre Identität verliert, wohl aber ihr Alter, dass sie also eine junge Hautzelle wird statt einer
+die Zelle dann nicht ihre Identität verliert, wohl aber ihr Alter. Dass sie also eine junge Hautzelle wird statt einer
 alten, eine junge Nervenzelle statt einer alten, ohne aufzuhören, eine Haut- oder Nervenzelle zu sein.
 
 Dass eine Zelle überhaupt ein messbares Alter hat, das man zurückstellen könnte, ist selbst eine Entdeckung der letzten
 Jahre. Forscher fanden, dass die chemischen Markierungen auf der DNA sich mit dem Alter in einer so regelmäßigen Weise
 verändern, dass man aus ihrem Muster das Alter eines Menschen ablesen kann, oft auf wenige Jahre genau. Man nennt diese
 Messung eine epigenetische Uhr. Sie ist mehr als eine Spielerei, denn sie misst nicht die Jahre seit der Geburt, sondern
-etwas wie das biologische Alter, den tatsächlichen Zustand des Körpers, der bei einem kränklichen Fünfzigjährigen höher
-liegen kann als bei einem rüstigen Sechzigjährigen. Diese Uhr gibt der Verjüngungsforschung erst ihr Maß. Denn wenn man
-behauptet, eine Zelle verjüngt zu haben, muss man es zeigen können, und die epigenetische Uhr liefert die Anzeige.
-Stellt eine Behandlung die Uhr zurück, ist das ein Hinweis, dass sie die Zelle wirklich verjüngt und nicht nur verändert
-hat. Man nennt das partielle Reprogrammierung, teilweise Rückprogrammierung. Und in Tierversuchen gelingt sie auf eine
-Weise, die staunen macht. Ein Forscherteam gab alten Mäusen mit nachlassender Sehkraft drei dieser Faktoren und stellte
-ihnen das Sehvermögen teilweise wieder her. Eine andere Studie verlängerte die verbleibende Lebenszeit sehr alter Mäuse
-um über hundert Prozent, also auf mehr als das Doppelte, und verbesserte zugleich mehrere Gesundheitswerte. Im Tier ist
-die Umkehr des Alterns keine Spekulation mehr. Sie ist beobachtete Tatsache.
+etwas wie das biologische Alter, den tatsächlichen Zustand des Körpers. Dieser kann bei einem kränklichen
+Fünfzigjährigen höher liegen als bei einem rüstigen Sechzigjährigen. Diese Uhr gibt der Verjüngungsforschung erst ihr
+Maß. Denn wenn man behauptet, eine Zelle verjüngt zu haben, muss man es zeigen können, und die epigenetische Uhr liefert
+die Anzeige. Stellt eine Behandlung die Uhr zurück, ist das ein Hinweis, dass sie die Zelle wirklich verjüngt und nicht
+nur verändert hat. Man nennt das partielle Reprogrammierung, teilweise Rückprogrammierung. Und in Tierversuchen gelingt
+sie auf eine Weise, die staunen macht. Ein Forscherteam gab alten Mäusen mit nachlassender Sehkraft drei dieser Faktoren
+und stellte ihnen das Sehvermögen teilweise wieder her. Eine andere Studie verlängerte die verbleibende Lebenszeit sehr
+alter Mäuse um über hundert Prozent, also auf mehr als das Doppelte, und verbesserte zugleich mehrere Gesundheitswerte.
+Im Tier ist die Umkehr des Alterns keine Spekulation mehr. Sie ist beobachtete Tatsache.
 
 Aber gerade hier, wo die Hoffnung am größten ist, ist die Warnung am dringlichsten, und ich muss zwei schwere Bedenken
 nennen. Das erste ist der Krebs. Dieselben Faktoren, welche die Zelle verjüngen, können sie auch entarten lassen.
@@ -138,10 +138,10 @@ Netz bekämpft man nicht an einer Stelle.
 Die ernsthafte Architektur einer quasi-Unsterblichkeit wäre deshalb notwendig eine kombinierte. Sie müsste aufräumen und
 stabilisieren und verjüngen, abgestimmt, in der richtigen Reihenfolge, in der richtigen Dosis. Sie müsste den
 vorhandenen Schaden beseitigen, das Entstehen neuen Schadens drosseln und die bereits gealterten Zellen behutsam
-verjüngen, und sie müsste das fortlaufend tun, ein Leben lang, als ständige Wartung eines Körpers, der von Natur aus auf
-Verfall eingestellt ist. Man kann sich das vorstellen wie die Pflege eines alten Hauses, an dem man nicht einmal das
-Dach deckt und dann zusieht, wie es zerfällt, sondern an dem man unablässig arbeitet, hier ausbessert, dort erneuert,
-dort verstärkt, sodass es nie verfällt, obwohl jeder einzelne Balken altert.
+verjüngen. Und sie müsste das fortlaufend tun, ein Leben lang, als ständige Wartung eines Körpers, der von Natur aus auf
+Verfall eingestellt ist. Man kann sich das vorstellen wie die Pflege eines alten Hauses. Man deckt nicht einmal das Dach
+und sieht dann zu, wie es zerfällt, sondern man arbeitet unablässig daran, bessert hier aus, erneuert dort, verstärkt
+da, sodass es nie verfällt, obwohl jeder einzelne Balken altert.
 
 Eine solche Architektur ist heute nicht verfügbar. Kein Mensch erhält derzeit eine Behandlung dieser Art, und vieles,
 was nötig wäre, existiert nur in Ansätzen oder im Tierversuch. Aber, und das ist der nüchterne Kern dieses Kapitels, es

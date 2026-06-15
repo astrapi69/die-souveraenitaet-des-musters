@@ -109,8 +109,8 @@ Größenordnungen komplexer, aber sie ist eine Frage der Rechenleistung, der Spe
 Prinzips. Niemand bezweifelt mehr, dass es im Grundsatz geht.
 
 Andere speichern Daten in DNA, ganze Bücher, ganze Filme, kodiert in den vier Basen, archiviert in einem Tropfen
-Flüssigkeit, der auf eine Fingerkuppe passt. Wieder andere arbeiten daran, neuronale Aktivität direkt auszulesen, sie
-rekonstruieren grobe Bilder aus Hirnscans, sie entschlüsseln gedachte Sätze aus den Signalen des Sprachzentrums, sie
+Flüssigkeit, der auf eine Fingerkuppe passt. Wieder andere arbeiten daran, neuronale Aktivität direkt auszulesen. Sie
+rekonstruieren grobe Bilder aus Hirnscans, sie entschlüsseln gedachte Sätze aus den Signalen des Sprachzentrums. Sie
 lassen Gelähmte über implantierte Elektroden sprechen, indem sie die Absicht zu reden in Text übersetzen, bevor ein Wort
 den Mund erreicht. Jedes dieser Felder für sich ist ein technisches Spezialgebiet mit eigenen Zeitschriften, eigenen
 Kongressen, eigener Verwertungslogik. Zusammen ergeben sie etwas, das es nie zuvor gab. Die beginnende Ablösbarkeit des
@@ -153,7 +153,7 @@ unterschiedlich verhalten, wenn man versucht, sie zu lösen.
 Mein Denken ist ein Muster. Meine Erinnerungen sind ein Muster. Sie sind die Schicht, die jeder zuerst meint, wenn er
 Ich sagt, und sie ist die verführerischste, weil sie sich am ehesten in Daten fassen lässt. Aber die Art, wie mein
 Körper sich bewegt, das Gleichgewicht, das ich halte, ohne nachzudenken, der Griff, mit dem meine Hand ein Werkzeug
-findet, das sie tausendmal geführt hat, ist ein anderes Muster, das nicht im Denken sitzt, sondern in den Bahnen, die
+findet, das sie tausendmal geführt hat, das ist ein anderes Muster. Es sitzt nicht im Denken, sondern in den Bahnen, die
 mein Nervensystem über ein Leben hinweg eingeschliffen hat. Zwischen dem Denken und dem Körper liegt noch ein Muster,
 das zu keinem von beiden ganz gehört, das Fühlen, die Art, wie ich an Menschen gebunden bin, wie schnell ich erschrecke,
 was mich wärmt und was mich kalt lässt. Die Sprache, in der ich denke, ist wieder ein eigenes Muster, und sie ist nicht

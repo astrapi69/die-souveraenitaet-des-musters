@@ -99,11 +99,11 @@ der für einen Menschen tödlichen Menge betragen. Es übersteht all das und leb
 
 Sein Geheimnis ist ein Trick, der es buchstäblich aus der Zeit nimmt. Bei Not, vor allem bei Trockenheit, fährt das
 Bärtierchen seinen Stoffwechsel auf nahezu null herunter, auf einen winzigen Bruchteil des Normalen. Es presst fast sein
-gesamtes Wasser aus dem Körper, schrumpft zu einer Tonne genannten Kugel zusammen und ersetzt das verlorene Wasser durch
-einen schützenden Zucker, eine Art körpereigenes Frostschutzmittel, das die feinen Strukturen der Zellen vor dem Zerfall
-bewahrt. In diesem Zustand, Kryptobiose genannt, ist das Tier weder richtig tot noch richtig lebendig. Es wartet. Kehrt
-das Wasser zurück, erwacht es binnen Stunden und lebt weiter, als wäre nichts geschehen. In diesem Zustand kann es
-Jahrzehnte verharren.
+gesamtes Wasser aus dem Körper und schrumpft zu einer Tonne genannten Kugel zusammen. Das verlorene Wasser ersetzt es
+durch einen schützenden Zucker, eine Art körpereigenes Frostschutzmittel, das die feinen Strukturen der Zellen vor dem
+Zerfall bewahrt. In diesem Zustand, Kryptobiose genannt, ist das Tier weder richtig tot noch richtig lebendig. Es
+wartet. Kehrt das Wasser zurück, erwacht es binnen Stunden und lebt weiter, als wäre nichts geschehen. In diesem Zustand
+kann es Jahrzehnte verharren.
 
 Hier liegt die Unterscheidung, auf die es ankommt, und sie ist für dieses Buch entscheidend. Das Bärtierchen lebt nicht
 länger. Es pausiert. Die Zeit, die es in der Kryptobiose verbringt, zählt nicht zu seiner Lebensspanne. Erwacht es nach
