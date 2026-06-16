@@ -62,8 +62,8 @@ kein Plan tragen kann.
 
 Ich denke an Elias. Ich denke an meine Mutter, die ihre Erinnerung verliert, und an meinen Vater, dessen Körper ihn seit
 der Kindheit zur Geduld gezwungen hat. Ich denke an die Menschen, die ich kannte, und an die, die ich nie kennen werde.
-Ich denke daran, dass jeder von ihnen ein Muster war, das in keiner DNA-Sequenz steht, in keiner KI-Empfehlung,
-nirgendwo außer in der Zeit, die ihnen gegeben war, und in den Spuren, die sie hinterlassen haben.
+Jeder von ihnen war ein Muster, das in keiner DNA-Sequenz steht, in keiner KI-Empfehlung. Es stand nirgendwo außer in
+der Zeit, die ihnen gegeben war, und in den Spuren, die sie hinterlassen haben.
 
 Und ich denke daran, dass ich auf diesem Planeten ein neues Leben beginnen kann, aber ich kann es nur beginnen, wenn ich
 weiß, was ich beginne. Wenn ich nur eine Biologie starte, ist es nicht Schöpfung. Es ist Reproduktion. Wenn ich aber ein

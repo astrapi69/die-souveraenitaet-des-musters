@@ -17,7 +17,7 @@ letzten Jahren von der Science Fiction in die Forschungslabore gewandert ist. Si
 des Geistes. Der Gedanke ist einfach und verführerisch. Wenn das menschliche Gehirn im Grunde ein ungeheuer komplexes
 Informationsverarbeitungssystem ist, ein Netz aus Milliarden Nervenzellen und ihren Verbindungen, dann müsste man dieses
 Netz im Prinzip vermessen, seine Struktur auslesen und in einem Computer nachbilden können. Und wenn man das täte, so
-die Hoffnung, dann liefe in diesem Computer nicht bloß eine Simulation eines Gehirns, sondern der Mensch selbst, weiter,
+die Hoffnung, dann liefe in diesem Computer nicht bloß eine Simulation eines Gehirns, sondern der Mensch selbst. Weiter,
 befreit vom sterblichen Körper, womöglich unsterblich.
 
 Der bekannteste Verfechter dieser Idee, der amerikanische Erfinder und Zukunftsforscher Ray Kurzweil, hat vorausgesagt,
@@ -133,7 +133,7 @@ Verfechter sahen eine Einheit, wo viele Schichten sind. Die Philosophen sahen di
 Vielheit des Geistes, nicht als Vielheit verschieden verkörperter, verschieden zugänglicher Muster. Beide blieben damit
 hinter der eigentlichen Frage zurück. Denn sobald die Technik wirklich beginnt, Teile des Menschen auszulesen, lautet
 die Frage nicht mehr, ob die Kopie dasselbe Bewusstsein hat. Sie lautet, welche Schichten überhaupt mitgekommen sind und
-welche zurückblieben, und ob das, was ankommt, dann noch ein Mensch ist oder nur ein Bruchstück, das sich für einen
+welche zurückblieben. Und ob das, was ankommt, dann noch ein Mensch ist oder nur ein Bruchstück, das sich für einen
 hält.
 
 ## Was es heißt, viele zu sein
@@ -161,7 +161,7 @@ Daraus folgt etwas, das die ganze Diskussion über die Unsterblichkeit veränder
 lassen. Was sich nicht auslesen lässt, bleibt zurück. Das Ergebnis ist dann nicht der Mensch in einem neuen Träger,
 sondern ein Ausschnitt von ihm, eine Silhouette, die in manchen Schichten vollständig ist und in anderen leer. Ob ein
 solcher Ausschnitt noch derselbe Mensch ist, ob er überhaupt ein Mensch ist, das ist die Frage, die kein Verfechter des
-Uploadings stellt, weil seine Sprache vom einen Bewusstsein sie gar nicht zulässt.
+Uploadings stellt. Seine Sprache vom einen Bewusstsein lässt sie gar nicht zu.
 
 ## Was dieses Kapitel eröffnet
 

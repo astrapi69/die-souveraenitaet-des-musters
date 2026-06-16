@@ -137,8 +137,8 @@ Die speichernde DNA verführt zu dem Glauben, man könne einen Menschen aufschre
 die Partitur mit der Symphonie, das Substrat mit dem Muster. Man kann den Bauplan eines Menschen speichern, sein Genom,
 mühelos, das tun wir längst. Doch der Bauplan ist nicht der Mensch, das war die Lehre des ersten Kapitels. Den Menschen
 zu speichern hieße, nicht seine Partitur aufzubewahren, sondern seine Symphonie, nicht den Träger, sondern das, was auf
-dem Träger läuft. Und ob das überhaupt möglich ist, ob sich das Muster eines Menschen ablösen, speichern, übertragen
-lässt, das ist die Frage, die den ganzen zweiten Teil dieses Buches trägt.
+dem Träger läuft. Lässt sich das Muster eines Menschen überhaupt ablösen, speichern, übertragen? Das ist die Frage, die
+den ganzen zweiten Teil dieses Buches trägt.
 
 ## Wo der erste Teil endet
 

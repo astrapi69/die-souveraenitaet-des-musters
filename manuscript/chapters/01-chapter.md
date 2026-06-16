@@ -126,7 +126,7 @@ mir etwas genommen worden, für das es bisher kein Recht gibt, weil es bisher ni
 Man muss sich diesen Vorgang nicht ausdenken, um zu sehen, wohin er führt. Es gibt ihn schon, in seiner frühesten Form.
 Das Unternehmen, von dem in der Einleitung die Rede war, das Gehirne konserviert, um sie eines Tages auszulesen,
 arbeitet an genau dieser Trennung. Es opfert das Substrat, das Gehirn, das im Verfahren stirbt, um das Muster zu retten,
-die Verschaltung, die es trägt. Es trennt also bewusst, was die Natur nie getrennt hat, und es tut das in der Annahme,
+die Verschaltung, die es trägt. Es trennt also bewusst, was die Natur nie getrennt hat. Und es tut das in der Annahme,
 dass das, was übrig bleibt, wenn das Substrat fort ist, noch der Mensch sei.
 
 Ob diese Annahme stimmt, ist die Frage, die niemand stellt, und sie ist nichts anderes als die Frage nach der
@@ -162,7 +162,7 @@ gespürt hat, wie er ein anderer wird, wenn er die Sprache wechselt. Die Wunden,
 eingeschrieben tiefer als jede Erinnerung, manchmal so tief, dass sie sich der Sprache ganz entziehen und nur noch im
 Körper sprechen, in einem Zusammenzucken, einem Schlaf, der nicht kommt. Und unter allem liegt noch etwas, das schwer zu
 fassen ist und das ich später das existenzielle Muster nennen werde. Die Weise, wie ich überhaupt da bin, wie sich mir
-das Dasein erschließt, bevor ich auch nur einen Gedanken fasse, eine Schicht, von der ich noch nicht weiß, ob sie sich
+das Dasein erschließt, bevor ich auch nur einen Gedanken fasse. Eine Schicht, von der ich noch nicht weiß, ob sie sich
 übertragen lässt oder ob sie genau im Versuch der Übertragung verschwindet.
 
 Hier wird sichtbar, warum die Frage nach der Souveränität über das Muster so viel schwerer ist als die Frage nach der
@@ -170,8 +170,8 @@ Souveränität über den Körper. Beim Körper war immer klar, was geschützt wi
 klar umrissen. Das Muster ist keine Einheit. Bevor ich verteidigen kann, was mein ist, muss ich wissen, was es ist.
 Bevor ich eine Grenze ziehen kann, muss ich wissen, was innerhalb der Grenze liegt. Und das Herausfinden ist kein
 juristischer, sondern ein philosophischer Akt. Ich muss den Menschen zerlegen, nicht mit dem Skalpell, sondern mit dem
-Begriff. Ich muss die Schichten freilegen, aus denen er besteht, eine nach der anderen, und an jeder Schicht fragen, ob
-sie sich übertragen lässt, was bei der Übertragung verloren geht und wer darüber zu entscheiden hat.
+Begriff. Ich muss die Schichten freilegen, aus denen er besteht, eine nach der anderen. An jeder Schicht muss ich
+fragen, ob sie sich übertragen lässt, was bei der Übertragung verloren geht und wer darüber zu entscheiden hat.
 
 ## Warum das alles zusammengehört
 

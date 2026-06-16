@@ -8,8 +8,8 @@ verkauft eine Dienstleistung, die der Gründer Robert McIntyre selbst als "hunde
 Patient wird an eine Maschine angeschlossen, die ihm bei vollem Bewusstsein einen Cocktail aus Konservierungschemikalien
 in die Halsschlagader pumpt. Während er stirbt, wird sein Gehirn auf der Stelle in einen glasartigen Zustand versetzt,
 in dem jede Synapse, jede neuronale Verbindung, das gesamte Konnektom für Jahrhunderte erhalten bleibt. Die Hoffnung
-ist, dass künftige Wissenschaftler diese eingefrorene Struktur eines Tages auslesen, in einen Computer übertragen und
-das Bewusstsein des Toten dort wieder zum Leben erwecken.
+ist, dass künftige Wissenschaftler diese eingefrorene Struktur eines Tages auslesen und in einen Computer übertragen.
+Dort, so der Gedanke, ließe sich das Bewusstsein des Toten wieder zum Leben erwecken.
 
 Sam Altman, damals Präsident von Y Combinator, heute einer der mächtigsten Männer der Tech-Branche, sagte dem MIT
 Technology Review, er gehe davon aus, dass sein Gehirn noch zu seinen Lebzeiten in die Cloud hochgeladen werde.

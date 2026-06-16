@@ -31,8 +31,8 @@ kennt, erkennt ihn an seinem Denkstil wieder, noch bevor er den Inhalt prüft.
 Man kann zwei Menschen dieselbe Frage stellen und an der Form ihrer Antwort erkennen, wer geantwortet hat, auch wenn der
 Inhalt ähnlich ausfällt. Der eine wird mit einem Gegenbeispiel beginnen, der andere mit einer Definition. Der eine baut
 seinen Gedanken in langen, verschachtelten Bögen, der andere in kurzen, harten Sätzen. Der eine sucht das Verbindende,
-der andere das Trennende. Diese Eigenart ist nicht angelernt wie eine Vokabel, sie ist gewachsen über ein ganzes Leben,
-geformt von Lehrern, Büchern, Niederlagen, von der Muttersprache und den später erlernten Sprachen, von tausend
+der andere das Trennende. Diese Eigenart ist nicht angelernt wie eine Vokabel, sie ist gewachsen über ein ganzes Leben.
+Geformt von Lehrern, Büchern, Niederlagen, von der Muttersprache und den später erlernten Sprachen, von tausend
 Einflüssen, die niemand mehr auseinanderdröseln kann. Der Denkstil ist die Signatur des kognitiven Musters, das
 Persönlichste an ihm.
 
