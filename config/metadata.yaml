@@ -1,16 +1,83 @@
+# ============================================================
+#  Buchmetadaten  ·  Die Souveränität des Musters
+#  Gefüllte Felder kannst du anpassen. Leere Felder mit
+#  Kommentar "# TODO" musst du selbst setzen.
+# ============================================================
+
+# ---- Bibliografische Kerndaten --------------------------------
 title: "Die Souveränität des Musters"
 subtitle: "Was vom Menschen bleibt, wenn alles übertragbar wird"
 author: "Asterios Raptis"
-isbn:
-  ebook: ""
-  paperback: ""
-  hardcover: ""
 edition: "1"
-publisher: ""
-date: "2026"
+date: "2026"            # Pandoc mag ISO-Form, z. B. "2026-09-01"
 language: "de"
-description: "Buchprojekt f"
-keywords: []
+
+# ---- Verlag und Reihe -----------------------------------------
+publisher: "Conscious Path Publishing"   # aus dem Impressum übernommen, bitte prüfen
+imprint: ""                              # optional, falls abweichend
+
+# ---- ISBN (je Ausgabe eine eigene Nummer) ---------------------
+# Hinweis: KDP vergibt für Paperback und Hardcover auf Wunsch
+# kostenlose ISBN, die aber an KDP gebunden sind. Für das E-Book
+# verlangt KDP keine ISBN. Eigene ISBN nötig, wenn du verlagsweit
+# unabhängig bleiben willst.
+isbn:
+  ebook: ""            # TODO
+  paperback: ""        # TODO
+  hardcover: ""        # TODO
+
+# ---- Beschreibung (Klappentext / Verkaufstext) ----------------
+description: >
+  Die Biotechnologie nähert sich dem alten Traum, das Leben zu
+  verlängern und den Geist zu bewahren. Doch was genau würde
+  fortbestehen, wenn sich der Körper erhalten oder das Bewusstsein
+  übertragen ließe? Asterios Raptis zeigt, dass der Mensch nicht
+  ein Muster ist, sondern viele: ein Denken, eine Lebensgeschichte,
+  ein Körperwissen, ein Fühlen, eine Sprache, eine Wunde. Schicht
+  für Schicht prüft dieses Buch nüchtern und wissenschaftlich
+  grundiert, was sich erhalten lässt und was im Versuch der
+  Übertragung unweigerlich verloren geht. Daraus erwächst die
+  Forderung nach einem neuen Grundrecht: der Souveränität über die
+  eigenen Muster. Ein Buch gegen den Hype und für eine klare Frage,
+  wer über das Innerste eines Menschen verfügen darf.
+
+# kurze Variante für Metadatenfelder mit Zeichenbegrenzung
+description_short: >
+  Was bleibt vom Menschen, wenn Körper und Geist übertragbar werden?
+  Eine nüchterne Vermessung der Schichten unserer Identität und ein
+  Plädoyer für ein neues Grundrecht: die Souveränität über die
+  eigenen Muster.
+
+# ---- Schlagworte (KDP erlaubt 7 Slots) ------------------------
+keywords:
+  - "Digitale Unsterblichkeit"
+  - "Mind Uploading"
+  - "Bewusstsein und Identität"
+  - "Transhumanismus"
+  - "Philosophie des Geistes"
+  - "Lebensverlängerung"
+  - "Musterautonomie"
+
+# ---- Kategorien (BISAC, für KDP und Druck) ---------------------
+# Bei KDP wählst du zwei Browse-Kategorien; die BISAC-Codes helfen
+# bei der Zuordnung. Vorschlag, nach Passung sortiert:
+bisac_categories:
+  - code: "PHI015000"
+    label: "PHILOSOPHY / Mind & Body"
+  - code: "SCI034000"
+    label: "SCIENCE / Life Sciences / Evolution"
+  - code: "TEC052000"
+    label: "TECHNOLOGY & ENGINEERING / Social Aspects"
+  - code: "PHI005000"
+    label: "PHILOSOPHY / Ethics & Moral Philosophy"
+
+# ---- Rechte ---------------------------------------------------
+rights: "© 2026 Asterios Raptis. Alle Rechte vorbehalten."
+contact: ""            # optional, z. B. Verlags- oder Autorkontakt
+
+# ---- Cover ----------------------------------------------------
 cover_image: "assets/covers/cover.png"
+
+# ---- Build / Pipeline -----------------------------------------
 output_formats: ["pdf", "epub", "docx"]
 kdp_enabled: false
