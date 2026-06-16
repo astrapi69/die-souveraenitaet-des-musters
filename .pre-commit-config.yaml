@@ -27,12 +27,17 @@ repos:
     rev: v0.41.0
     hooks:
       - id: markdownlint
+        # The book manuscript is authored German prose; markdownlint's
+        # heading/HTML rules are not meaningful gates for it.
+        exclude: ^manuscript/
 
   - repo: https://github.com/codespell-project/codespell
     rev: v2.3.0
     hooks:
       - id: codespell
         args: ["--ignore-words=.codespellignore"]
+        # codespell is English-only; skip the German manuscript.
+        exclude: ^manuscript/
 
   # --- Security / Secrets ---------------------------------------------------
   - repo: https://github.com/zricethezav/gitleaks
