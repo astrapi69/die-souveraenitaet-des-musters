@@ -1,13 +1,13 @@
 # Über den Autor
 
-Asterios Raptis, Jahrgang 1969, lebt und arbeitet in Deutschland. Aufgewachsen zwischen Sprachen und Kulturen, mit
-griechischen Wurzeln, beschäftigt ihn seit langem eine Frage, die dieses Buch in ihre äußerste Form treibt: Was macht
-einen Menschen aus, jenseits dessen, was sich messen, speichern und weitergeben lässt?
+Asterios Raptis lebt und schreibt in Deutschland. Seine griechischen Wurzeln und ein Leben zwischen Sprachen haben früh
+den Blick dafür geschärft, was einen Menschen ausmacht, dort, wo Herkunft, Sprache und Zugehörigkeit nicht
+selbstverständlich zusammenfallen.
 
-Er arbeitet in der Softwareentwicklung und bringt diese technische Denkweise in sein Schreiben ein. Daraus entsteht ein
-eigener Ton, nüchtern gegenüber den Versprechen der Technik, genau in der Sprache, entschieden auf der Seite des
-Menschen. Sein Werk reicht vom autobiografischen Erzählen über Kinderbücher und Science-Fiction bis zur Philosophie.
-Eine Frage verbindet alles, die nach der Souveränität des Einzelnen über sich selbst.
+Sein Denken verbindet die Strenge der Form mit der Weite der Frage. Er schreibt nüchtern gegenüber den Versprechen der
+Technik, genau in der Sprache und entschieden auf der Seite des Menschen. Sein Werk reicht vom autobiografischen
+Erzählen über Kinderbücher und Science-Fiction bis zur Philosophie. Eine Frage verbindet alles, die nach der
+Souveränität des Einzelnen über sich selbst.
 
 "Die Souveränität des Musters" gehört zu einer Reihe, die denselben Begriff, das Muster, aus wechselnden Blickwinkeln
 beleuchtet. Wo der Vorgängerband "Biologische Souveränität" das Recht des Menschen über seinen eigenen Code untersuchte,
