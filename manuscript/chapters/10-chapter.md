@@ -28,7 +28,7 @@ Das ist kein Luxus, sondern eine Notwendigkeit. Ohne diese Geschichte zerfiele d
 Die Erzählung stiftet Zusammenhang. Sie erklärt, warum aus dem Kind, das ich war, der Mensch wurde, der ich bin. Sie
 verbindet meine Entscheidungen zu einem Weg, meine Brüche zu Wendepunkten, meine Niederlagen zu Lehren. Ein Philosoph
 des Geistes, den ich im achten Kapitel erwähnt habe, hat das Selbst geradezu als einen Fluchtpunkt der Geschichten
-beschrieben, die ein Mensch über sich erzählt, als ein Schwerkraftzentrum der Erzählung, hinter dem kein festes Ding
+beschrieben, die ein Mensch über sich erzählt. Als ein Schwerkraftzentrum der Erzählung, hinter dem kein festes Ding
 sitzt, sondern nur das fortlaufende Erzählen selbst.
 
 Wenn das stimmt, dann ist die Lebensgeschichte nicht bloß ein Bericht über das Selbst, sondern das Selbst ist in

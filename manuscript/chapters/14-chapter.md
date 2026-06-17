@@ -89,7 +89,7 @@ die eigentliche wäre, denn sie sind alle ich, und keine ist es ganz allein.
 ## Was das für die Übertragung bedeutet
 
 Ziehen wir die Folgerung für die Frage dieses Buches. Wenn die Sprache den Menschen so tief formt, dann lässt sich ein
-Mensch nicht ohne Weiteres von seiner Sprache lösen, und schon gar nicht in eine andere übersetzen, ohne dass er sich
+Mensch nicht ohne Weiteres von seiner Sprache lösen. Und schon gar nicht in eine andere übersetzen, ohne dass er sich
 änderte.
 
 Stellen wir uns vor, man wollte einen Menschen erhalten, indem man sein Denken in eine andere Form überführt, etwa in
@@ -130,7 +130,7 @@ Eigenes, sondern ein Gemeinsames, das durch ihn hindurchgeht. Wenn ich denke, de
 vor mir geformt haben, mit Bedeutungen, die sie ihnen gegeben haben, mit Wendungen, in denen ihre Erfahrungen aufbewahrt
 sind. Mein innerstes Selbstgespräch führe ich in einer Sprache, die mir nicht gehört, sondern die ich mit Millionen
 teile. Das sprachliche Muster ist darum, ähnlich wie das emotionale mit seinen Bindungen, kein Muster, das im Einzelnen
-sitzt, sondern eines, das ihn mit anderen verbindet, mit den Lebenden und den Toten, die diese Sprache gesprochen haben.
+sitzt. Es ist eines, das ihn mit anderen verbindet, mit den Lebenden und den Toten, die diese Sprache gesprochen haben.
 
 Wollte man also den Menschen erhalten, indem man sein sprachliches Muster bewahrt, so stieße man auf dieselbe
 Schwierigkeit wie beim Gefühl. Man kann das Gemeinsame nicht aus dem Einzelnen herausschneiden, ohne es zu zerstören.

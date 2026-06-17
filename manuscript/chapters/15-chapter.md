@@ -104,8 +104,8 @@ Daseins. Und das wirft die Frage auf, was mit diesem Zug geschähe, wenn man den
 
 Damit kommen wir zur entscheidenden Schwierigkeit, und sie ist tiefer als bei allen vorigen Schichten. Bei jenen war die
 Frage, ob sich die Schicht erfassen und mitnehmen lässt. Hier ist die Frage eine andere und eine grundsätzlichere.
-Selbst wenn man alles Übrige überträfe, das Denken, das Fühlen, die Erinnerungen, in eine fortdauernde, vielleicht
-unsterbliche Existenz, so verstieße man genau gegen das existenzielle Muster, gegen die Endlichkeit, die zum
+Angenommen, man überträfe alles Übrige, das Denken, das Fühlen, die Erinnerungen, in eine fortdauernde, vielleicht
+unsterbliche Existenz. Dann verstieße man genau gegen das existenzielle Muster, gegen die Endlichkeit, die zum
 menschlichen Dasein gehört.
 
 Ein Wesen, das nicht mehr sterblich ist, das nicht mehr in der Zeit steht wie ein Mensch, das nicht mehr um seine
