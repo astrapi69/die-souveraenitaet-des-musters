@@ -5,9 +5,9 @@ den Blick dafür geschärft, was einen Menschen ausmacht, dort, wo Herkunft, Spr
 selbstverständlich zusammenfallen.
 
 Sein Denken verbindet die Strenge der Form mit der Weite der Frage. Er schreibt nüchtern gegenüber den Versprechen der
-Technik, genau in der Sprache und entschieden auf der Seite des Menschen. Sein Werk reicht vom autobiografischen
-Erzählen über Kinderbücher und Science-Fiction bis zur Philosophie. Eine Frage verbindet alles, die nach der
-Souveränität des Einzelnen über sich selbst.
+Technik, genau in der Sprache und entschieden auf der Seite des Menschen. Sein Werk bewegt sich zwischen persönlichem
+Zeugnis und philosophischer Untersuchung. Eine Frage verbindet es, die nach der Souveränität des Einzelnen über sich
+selbst.
 
 "Die Souveränität des Musters" gehört zu einer Reihe, die denselben Begriff, das Muster, aus wechselnden Blickwinkeln
 beleuchtet. Wo der Vorgängerband "Biologische Souveränität" das Recht des Menschen über seinen eigenen Code untersuchte,
