@@ -96,8 +96,8 @@ die Frage, wann ein Recht überhaupt ein Recht ist und nicht bloß ein Wort auf 
 Ein Recht, das man formal besitzt, aber nicht wirklich ausüben kann, ist keine Wirklichkeit, sondern eine Illusion.
 Zwischen dem Menschen und der Wirkung seines Rechts steht oft eine Mauer aus Verfahren, Vertretern und Filtern, die das
 Recht in der Theorie bestehen lässt und es in der Praxis aushöhlt. Das gilt für das politische Stimmrecht, das jeder
-formal besitzt, dessen Wirkung aber durch eine lange Kette von Vermittlungen verdünnt wird, bis am Ende kaum noch etwas
-davon beim Einzelnen ankommt.
+formal besitzt, dessen Wirkung aber eine lange Kette von Vermittlungen verdünnt, bis am Ende kaum noch etwas davon beim
+Einzelnen ankommt.
 
 Man bedenke, wie weit der Weg ist zwischen der Stimme, die ein Mensch alle paar Jahre abgibt, und dem, was am Ende
 geschieht. Die Stimme geht an einen Vertreter, der Vertreter an eine Fraktion, die Fraktion an eine Koalition, die

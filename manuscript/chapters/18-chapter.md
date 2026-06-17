@@ -3,10 +3,10 @@
 *Ein neues Grundrecht*
 
 Das vorige Kapitel hat die Diagnose gestellt. Überlässt man die Erhaltung und Nachbildung menschlicher Muster den
-Kräften des Marktes, so wird der Mensch nach dem Maß des Ertrags zerlegt. Seine verwertbare Oberfläche wird bewahrt,
-sein unverwertbarer Kern fallen gelassen, und die Verfügung über seine Muster fällt an die, die sie erfassen, nicht an
-ihn selbst. Daraus folgte die Frage, die dieses Kapitel beantwortet. Wenn der Markt nicht entscheiden darf, wer dann?
-Meine Antwort lautet, der Mensch selbst, und sie verlangt mehr als ein frommes Bekenntnis. Sie verlangt ein Recht.
+Kräften des Marktes, so zerlegt dieser den Menschen nach dem Maß des Ertrags. Er bewahrt die verwertbare Oberfläche,
+lässt den unverwertbaren Kern fallen, und die Verfügung über die Muster gewinnen die, die sie erfassen, nicht der Mensch
+selbst. Daraus folgte die Frage, die dieses Kapitel beantwortet. Wenn der Markt nicht entscheiden darf, wer dann? Meine
+Antwort lautet, der Mensch selbst, und sie verlangt mehr als ein frommes Bekenntnis. Sie verlangt ein Recht.
 
 Ich entwickle in diesem Kapitel den zentralen Begriff des Buches, die Musterautonomie. Ich tue das mit der gebotenen
 Strenge, denn ein neues Recht zu behaupten ist leicht, es zu begründen und von bestehenden Rechten abzugrenzen ist
@@ -83,7 +83,7 @@ Damit das neue Recht scharfe Konturen bekommt, grenze ich es noch genauer ab. Di
 auf den eigenen Körper, denn sie reicht über den Körper hinaus, in Schichten, die nicht leiblich sind. Sie ist nicht das
 Recht auf die eigenen Daten, denn sie betrifft nicht Information über den Menschen, sondern den Menschen. Sie ist nicht
 das Recht auf Privatheit, denn Privatheit schützt davor, gesehen zu werden, während die Musterautonomie auch dann gilt,
-wenn niemand zusieht, sie schützt das Verfügen über die eigenen Schichten, nicht das Verbergen.
+wenn niemand zusieht. Sie schützt das Verfügen über die eigenen Schichten, nicht das Verbergen.
 
 Am genauesten fasse ich sie, wenn ich sage, sie ist ein Recht auf die Unverfügbarkeit der eigenen Person durch andere,
 verbunden mit der vollen Verfügung über sich selbst. Zwei Seiten also. Nach außen ein Abwehrrecht, niemand darf über
@@ -156,8 +156,8 @@ ohne seinen Willen festzuhalten, zu verbreiten, zu verwerten. Das Recht eilt der
 dieses Buch versucht, ihm ein Stück voraus zu sein.
 
 Ich gebe zu, dass die Begründung eines neuen Grundrechts umstritten bleibt. Es gibt gute Juristen, die sagen, man komme
-mit den bestehenden Rechten aus, man müsse sie nur richtig auslegen. Dieselbe Debatte wird um die Neurorechte geführt.
-Ich entscheide den Streit nicht endgültig. Aber ich halte fest, dass die bestehenden Rechte den Menschen entweder als
+mit den bestehenden Rechten aus, man müsse sie nur richtig auslegen. Dieselbe Debatte führt man um die Neurorechte. Ich
+entscheide den Streit nicht endgültig. Aber ich halte fest, dass die bestehenden Rechte den Menschen entweder als
 Würdeträger im Allgemeinen oder als Eigentümer von Daten fassen, und beides verfehlt den Kern. Der Mensch ist mehr als
 seine Würde im Allgemeinen und mehr als der Eigentümer seiner Daten. Er ist die Gesamtheit seiner Schichten, und eben
 diese Gesamtheit braucht einen Schutz, den keines der alten Rechte genau auf sie zuschneidet.

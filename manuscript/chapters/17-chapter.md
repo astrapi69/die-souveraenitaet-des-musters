@@ -111,7 +111,7 @@ aus, die sich verwerten lassen, und formt daraus ein Modell von ihm, ein Musterg
 sondern sein ökonomisch verwertbarer Schatten. Dieses Modell dient nicht dem Menschen, es dient denen, die an ihm
 verdienen. Und der Mensch hat in der Regel keine Verfügung darüber. Er weiß meist nicht einmal, welche seiner Schichten
 erfasst sind, geschweige denn, dass er darüber entscheiden könnte. Was die Übertragung eines ganzen Menschen verspricht,
-im Großen und Ganzen, das geschieht im Kleinen längst, fragmentarisch, an den Datenspuren, und niemand fragt den
+im Großen und Ganzen, das geschieht im Kleinen längst, fragmentarisch, an den Datenspuren. Und niemand fragt den
 Menschen, welche seiner Muster er preisgeben will.
 
 ## Wer die Muster hält, hat Macht

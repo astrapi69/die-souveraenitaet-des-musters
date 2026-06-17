@@ -104,7 +104,7 @@ ihm und anderen liegen, nicht in ihm allein. Die soziale Schicht weitet diesen G
 ein Mensch ist, liegt gar nicht in ihm, sondern in dem Netz, in das er gehört. Löste man ihn aus diesem Netz heraus und
 überführte ihn in einen Speicher, so übertrüge man einen Faden, aus dem Gewebe gerissen, und ein Faden allein ist kein
 Gewebe mehr. Ein vereinzelter Mensch, ohne die Seinen, ohne seine Rollen, ohne die Gemeinschaft, die ihn trug, wäre
-nicht derselbe Mensch in der Einsamkeit, sondern ein Bruchstück dessen, der er im Geflecht der anderen war.
+nicht derselbe Mensch in der Einsamkeit. Er wäre ein Bruchstück dessen, der er im Geflecht der anderen war.
 
 Diese soziale Schicht hat eine Eigenheit, die über das Persönliche hinausweist und zur politischen Frage des letzten
 Teils hinführt. Der Mensch ist nicht nur in private Bindungen verflochten, sondern in eine Gesellschaft, in ihre
