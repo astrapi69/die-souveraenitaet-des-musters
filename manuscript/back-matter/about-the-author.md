@@ -13,5 +13,5 @@ selbst.
 beleuchtet. Wo der Vorgängerband "Biologische Souveränität" das Recht des Menschen über seinen eigenen Code untersuchte,
 fragt dieses Buch nach dem Recht über die Schichten der Identität, einem Recht, das der Autor Musterautonomie nennt.
 
-Dass diese Fragen für ihn nicht abstrakt sind, zeigt schon der Prolog. Raptis schreibt aus der Erfahrung eines Vaters,
-eines Sohnes, eines Menschen, der weiß, dass sich das Wesentliche an einem Leben keiner Formel fügt.
+Dass diese Fragen für ihn nicht abstrakt sind, zeigt schon der Prolog. Er schreibt aus der Erfahrung eines Vaters, eines
+Sohnes, eines Menschen, der weiß, dass sich das Wesentliche an einem Leben keiner Formel fügt.
