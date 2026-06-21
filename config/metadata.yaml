@@ -1,7 +1,5 @@
 # ============================================================
 #  Buchmetadaten  ·  Die Souveränität des Musters
-#  Gefüllte Felder kannst du anpassen. Leere Felder mit
-#  Kommentar "# TODO" musst du selbst setzen.
 # ============================================================
 
 # ---- Bibliografische Kerndaten --------------------------------
@@ -11,6 +9,7 @@ author: "Asterios Raptis"
 edition: "1"
 date: "2026"            # Pandoc mag ISO-Form, z. B. "2026-09-01"
 language: "de"
+lang: de-DE
 
 # ---- Verlag und Reihe -----------------------------------------
 publisher: "Conscious Path Publishing"   # aus dem Impressum übernommen, bitte prüfen
@@ -21,10 +20,14 @@ imprint: ""                              # optional, falls abweichend
 # kostenlose ISBN, die aber an KDP gebunden sind. Für das E-Book
 # verlangt KDP keine ISBN. Eigene ISBN nötig, wenn du verlagsweit
 # unabhängig bleiben willst.
+identifier: "https://consciouspath.pub/die-souveraenitaet-des-musters"
 isbn:
-  ebook: ""            # TODO
   paperback: ""        # TODO
   hardcover: ""        # TODO
+asin:
+  ebook: ""
+  paperback: ""
+  hardcover: ""
 
 # ---- Beschreibung (Klappentext / Verkaufstext) ----------------
 description: >
@@ -81,3 +84,6 @@ cover_image: "assets/covers/cover.png"
 # ---- Build / Pipeline -----------------------------------------
 output_formats: ["pdf", "epub", "docx"]
 kdp_enabled: false
+
+# Rechte
+# rights: "© 2026 Asterios Raptis. Alle Rechte vorbehalten."

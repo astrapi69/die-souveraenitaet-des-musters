@@ -23,9 +23,9 @@ welche er bewahrt, welche er verändert und welche er loslässt.
 Diese Bestimmung enthält drei Befugnisse, die ich auseinanderlege. Die erste ist das Recht zu definieren. Niemand außer
 dem Menschen selbst darf festlegen, welche seiner Schichten zu ihm gehören, welche sein Muster ausmachen. Kein Konzern,
 der aus Datenspuren ein Modell formt, kein Staat, der ein Profil anlegt, darf an seiner Stelle bestimmen, wer er ist.
-Die zweite ist das Recht zu schützen. Der Mensch darf verlangen, dass seine Schichten nicht ohne seinen Willen erfasst,
-gespeichert, nachgebildet werden, dass sie unangetastet bleiben, wo er es will. Die dritte, und sie ist die tiefste, ist
-das Recht zu entscheiden, was bleibt und was geht. Welche Schicht er bewahren möchte, welche er ablegen, welche er
+Die zweite ist das Recht zu schützen. Der Mensch darf verlangen, dass niemand seine Schichten ohne seinen Willen
+erfasst, speichert oder nachbildet, dass sie unangetastet bleiben, wo er es will. Die dritte, und sie ist die tiefste,
+ist das Recht zu entscheiden, was bleibt und was geht. Welche Schicht er bewahren möchte, welche er ablegen, welche er
 verändern will, das steht ihm zu und keinem anderen. Ob er sein Trauma mitnähme oder zurückließe, um die Frage des
 dreizehnten Kapitels aufzugreifen, ob er eine Erinnerung erhielte oder tilgte, das ist seine Entscheidung, in der ihm
 niemand zuvorkommen darf.
@@ -82,8 +82,8 @@ Schritt auf dem Weg, den die Musterautonomie zu Ende geht.
 Damit das neue Recht scharfe Konturen bekommt, grenze ich es noch genauer ab. Die Musterautonomie ist nicht das Recht
 auf den eigenen Körper, denn sie reicht über den Körper hinaus, in Schichten, die nicht leiblich sind. Sie ist nicht das
 Recht auf die eigenen Daten, denn sie betrifft nicht Information über den Menschen, sondern den Menschen. Sie ist nicht
-das Recht auf Privatheit, denn Privatheit schützt davor, gesehen zu werden, während die Musterautonomie auch dann gilt,
-wenn niemand zusieht. Sie schützt das Verfügen über die eigenen Schichten, nicht das Verbergen.
+das Recht auf Privatheit, denn Privatheit schützt davor, dass andere einen sehen, während die Musterautonomie auch dann
+gilt, wenn niemand zusieht. Sie schützt das Verfügen über die eigenen Schichten, nicht das Verbergen.
 
 Am genauesten fasse ich sie, wenn ich sage, sie ist ein Recht auf die Unverfügbarkeit der eigenen Person durch andere,
 verbunden mit der vollen Verfügung über sich selbst. Zwei Seiten also. Nach außen ein Abwehrrecht, niemand darf über
@@ -96,8 +96,9 @@ die meine Muster erfassen und verwerten wollen. Und sie kommt, subtiler, aus der
 dem die Verfügung zusteht. Denn ein Mensch ändert sich. Der, der ich heute bin, ist nicht ganz der, der ich mit zwanzig
 war, und nicht der, der ich mit achtzig sein werde. Wer von diesen darf entscheiden? Die Musterautonomie antwortet,
 stets der gegenwärtige, lebendige Mensch, in jedem Augenblick er selbst. Nicht ein vergangenes Ich, das einmal etwas
-festlegte, und nicht ein künftiges, das man vorwegnähme. Auch nicht eine gespeicherte Kopie, die einmal angefertigt
-wurde und nun ein Eigenleben führte. Allein der lebende Mensch in seiner Gegenwart ist der Souverän seiner Muster.
+festlegte, und nicht ein künftiges, das man vorwegnähme. Auch nicht eine gespeicherte Kopie, die jemand einmal
+anfertigte und die nun ein Eigenleben führte. Allein der lebende Mensch in seiner Gegenwart ist der Souverän seiner
+Muster.
 
 Dieser Punkt verdient besondere Aufmerksamkeit, denn er trennt die Musterautonomie von einem bloßen Eigentumsrecht.
 Eigentum kann man übertragen, vererben, verkaufen, einem anderen zur Verwaltung geben. Die Verfügung über die eigenen
@@ -147,7 +148,7 @@ eines Menschen ohne seinen Willen festhalten und vervielfältigen. Ein berüchti
 in das Sterbezimmer eines berühmten Staatsmannes eindrangen, um den Toten abzulichten und die Bilder zu verkaufen,
 machte die neue Verletzlichkeit schlagartig sichtbar. Das geltende Recht konnte die Eindringlinge nur wegen
 Hausfriedensbruchs belangen, nicht wegen des Bildes selbst, denn ein Recht am eigenen Bild gab es noch nicht. Über
-solche Bildrechte wurde damals schon länger und in mehreren Ländern nachgedacht, und einige Jahre später verankerte der
+solche Bildrechte dachte man damals schon länger und in mehreren Ländern nach, und einige Jahre später verankerte der
 Gesetzgeber das Recht am eigenen Bild. Die Technik hatte einen Schutz aufgehoben, der bis dahin selbstverständlich war,
 weil niemand das Bild eines anderen so leicht hatte festhalten können, und das Recht musste nachziehen.
 
