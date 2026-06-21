@@ -1,8 +1,7 @@
 # Über den Autor
 
-Asterios Raptis lebt und schreibt in Deutschland. Seine griechischen Wurzeln und ein Leben zwischen Sprachen haben früh
-den Blick dafür geschärft, was einen Menschen ausmacht, dort, wo Herkunft, Sprache und Zugehörigkeit nicht
-selbstverständlich zusammenfallen.
+Asterios Raptis hat griechische Wurzeln, und ein Leben zwischen Sprachen hat früh den Blick dafür geschärft, was einen
+Menschen ausmacht, dort, wo Herkunft, Sprache und Zugehörigkeit nicht selbstverständlich zusammenfallen.
 
 Sein Denken verbindet die Strenge der Form mit der Weite der Frage. Er schreibt nüchtern gegenüber den Versprechen der
 Technik, genau in der Sprache und entschieden auf der Seite des Menschen. Sein Werk bewegt sich zwischen persönlichem

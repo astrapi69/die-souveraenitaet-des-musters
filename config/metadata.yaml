@@ -84,6 +84,3 @@ cover_image: "assets/covers/cover.png"
 # ---- Build / Pipeline -----------------------------------------
 output_formats: ["pdf", "epub", "docx"]
 kdp_enabled: false
-
-# Rechte
-# rights: "© 2026 Asterios Raptis. Alle Rechte vorbehalten."
