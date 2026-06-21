@@ -27,17 +27,19 @@ repos:
     rev: v0.41.0
     hooks:
       - id: markdownlint
-        # The book manuscript is authored German prose; markdownlint's
-        # heading/HTML rules are not meaningful gates for it.
-        exclude: ^manuscript/
+        # The book manuscript and its cover/config content are authored
+        # German prose; markdownlint's heading/HTML rules are not
+        # meaningful gates for it.
+        exclude: ^(manuscript|config|assets)/
 
   - repo: https://github.com/codespell-project/codespell
     rev: v2.3.0
     hooks:
       - id: codespell
         args: ["--ignore-words=.codespellignore"]
-        # codespell is English-only; skip the German manuscript.
-        exclude: ^manuscript/
+        # codespell is English-only; skip the German manuscript and the
+        # German cover/config content.
+        exclude: ^(manuscript|config|assets)/
 
   # --- Security / Secrets ---------------------------------------------------
   - repo: https://github.com/zricethezav/gitleaks
@@ -54,4 +56,7 @@ repos:
       - id: check-json
       - id: end-of-file-fixer
       - id: trailing-whitespace
+        # Preserve Markdown hard line breaks (two trailing spaces), used
+        # e.g. in the German imprint block.
+        args: [--markdown-linebreak-ext=md]
       - id: check-added-large-files
