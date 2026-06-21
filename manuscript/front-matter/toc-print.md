@@ -37,6 +37,8 @@ Einleitung
 
 Epilog: Die drei Prozent
 
+Zur Einordnung: Vorläufer und eigener Beitrag
+
 Glossar
 
 Danksagung
