@@ -7,4 +7,3 @@
 - Kindle-Bücher › Fachbücher › Philosophie › Ethik
 
 ## paperback & hardcover
-
