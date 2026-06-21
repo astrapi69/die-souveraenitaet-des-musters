@@ -32,8 +32,8 @@ section_order:
     - front-matter/foreword.md
     - chapters
     - back-matter/epilogue.md
-    - back-matter/glossary.md
     - back-matter/appendix.md
+    - back-matter/glossary.md
     - back-matter/acknowledgments.md
     - back-matter/about-the-author.md
     - back-matter/bibliography.md
@@ -45,8 +45,8 @@ section_order:
     - front-matter/preface.md
     - chapters
     - back-matter/epilogue.md
-    - back-matter/glossary.md
     - back-matter/appendix.md
+    - back-matter/glossary.md
     - back-matter/acknowledgments.md
     - back-matter/about-the-author.md
     - back-matter/bibliography.md
