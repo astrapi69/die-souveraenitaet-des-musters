@@ -22,8 +22,8 @@ imprint: ""                              # optional, falls abweichend
 # unabhängig bleiben willst.
 identifier: "https://consciouspath.pub/die-souveraenitaet-des-musters"
 isbn:
-  paperback: ""        # TODO
-  hardcover: ""        # TODO
+  paperback: "9798183547795"
+  hardcover: "9798183549218"
 asin:
   ebook: ""
   paperback: ""
